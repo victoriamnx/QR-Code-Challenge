@@ -4,15 +4,15 @@ This is a solution to the [https://www.frontendmentor.io/challenges/qr-code-comp
 
 # Table of contents
 
-- [Screenshot](#screenshot)
+- [Result](#Result)
 - [Links](#links)
 - [Built with](#built-with)
 - [Useful resources](#useful-resources)
 - [Author](#author)
 
-# Screenshot
+# Result
 
-[components/design/myresult.png]
+![Screenshot 2023-03-11 134655](https://user-images.githubusercontent.com/96449803/224502033-b451a201-dec9-4a8c-9a9e-fec2e71f25d9.png)
 
 # Links
 
