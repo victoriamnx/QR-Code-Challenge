@@ -57,11 +57,26 @@ body {
 }
 
 .attribution {
-  display: flex;
-  font-size: 11px;
+  padding-top: 10px;
   text-align: center;
-  margin-top: 20px;
+  font-family: "Outfit", sans-serif;
+  color: hsl(228, 12%, 48%);
+  font-size: 15px;
 }
-.attribution a {
-  color: hsl(228, 45%, 44%);
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  color: hsl(228, 12%, 48%);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
 }
